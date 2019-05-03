@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Event Countdown</string>
+    <string name="emailtext">Email</string>
+    <string name="passwordtext">Password</string>
+    <string name="membertext">Already a member? Login</string>
+    <string name="createbutton">Register</string>
+    <string name="nonmembertext">No account yet? Create one</string>
+    <string name="loginbutton">Login</string>
+    <string name="eventtitle">New Event</string>
+    <string name="eventname">Name of Event</string>
+    <string name="eventdate">Date</string>
+    <string name="eventtime">Time</string>
+    <string name="eventnotification">Notification</string>
+    <string name="addeventbutton">Add Event</string>
+    <string name="speechbutton">Speech to Text</string>
+</resources>

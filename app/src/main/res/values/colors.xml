@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3c4049</color>
+    <color name="colorPrimaryDark">#2d3236</color>
+    <color name="colorAccent">#ea4c87</color>
+    <color name="pinkButtonColor">#D81B60</color>
+    <color name="textColor">#ffffff</color>
+    <color name="backgroundColor">#2d3236</color>
+</resources>
